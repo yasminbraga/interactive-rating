@@ -46,6 +46,10 @@ This software uses the following open source packages:
 - [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)
 - [Styled Components](https://styled-components.com/)
 
+## Links
+
+[Interactive Rating Site](https://interactive-rating-yasminbraga.netlify.app/)
+
 ## License
 
 MIT
