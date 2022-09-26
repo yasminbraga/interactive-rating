@@ -1,35 +1,60 @@
-# Interactive Rating ReactJs
+<h1 align="center">  
+  Interactive Rating ReactJs
+</h1>
 
-This is my version of the [Interactive Rating Component](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI) presentede by [FrontendMentor](https://www.frontendmentor.io/home)
+<h4 align="center">This is my version of the  <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI" target="_blank">Interactive Rating Component Challenge</a> presented by <a href="https://www.frontendmentor.io/home" target="_blank">FrontendMentor</>.</h4>
 
-## Contéudos
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#resources">Resources</a> •
+  <a href="#license">License</a> •
+  <a href="#license">About me</a>
+</p>
 
-- [Overview](#overview)
-  - [The project](#project)
-    - [Backend](#backend)
-    - [Frontend](#frontend)
-    - [Mobile](#mobile)
-- [Sobre mim](#sobre-mim)
+<div align="center">
+  <img  src="./preview.gif" />
+</div>
 
-## Overview
+## Key Features
 
-### The project
+- Rate page with buttons to vote.
+- Result page with your selected vote.
 
-### Backend
+## How To Use
 
-O backend foi construído com NodeJs, utilizando o framework express. O banco de dados utilizado foi o SQLite e para o manuseio do banco de dados foi utilizado o Prisma ORM.
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. After clone, from your command line:
 
-#### Instalação e execução
+```bash
+# Go into the repository
+$ cd electron-markdownify
 
-Após dar um clone no repositório para instalar execute
+# Install dependencies
+$ npm install
 
-### Frontend
+# Run the app
+$ npm start
+```
 
-![](./assets/web.png)
+## Resources
 
-## Sobre mim
+This software uses the following open source packages:
 
-- Meu perfil na Rocketseat - [Yasmin Braga](https://app.rocketseat.com.br/me/yasmin-braga-1568974763)
+- [ReactJs](https://pt-br.reactjs.org/)
+  - Components
+  - Props
+- [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)
+- [Styled Components](https://styled-components.com/)
+
+## License
+
+MIT
+
+---
+
+## About me
+
+- Rocketseat - [Yasmin Braga](https://app.rocketseat.com.br/me/yasmin-braga-1568974763)
 - Frontend Mentor - [@yasminbraga](https://www.frontendmentor.io/profile/yasminbraga)
 - Instagram - [@yasminbragat](https://www.twitter.com/yasminbragat)
 - Twitter - [@minbragat](https://www.twitter.com/minbragat)
